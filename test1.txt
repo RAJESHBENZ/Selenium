@@ -4,4 +4,4 @@ hi git hub
 
 exisiting java code modified
 
-to  chek the conflit fuctionality 
+to  chek the conflit fuctionality.
