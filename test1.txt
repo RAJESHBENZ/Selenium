@@ -2,46 +2,14 @@ Hi Git hub i am new git and gitrepository
 please teach me properly
 hi git hub
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-exisiting java code modified
-
-to  chek the conflit fuctionality.
-=======
-=======
 
 exisiting java code modified
 
 to  chek the conflit fuctionality.
 
->>>>>>> f6dc8eec9e13b5980a3aa9262ff5606989a35fc6
-new 
-
-
-exisiting java code modified
-
-to  chek the conflit fuctionality 
-main
-<<<<<<< HEAD
->>>>>>> fd7b15c55148e2dbe4e478e320caa42def67218d
-=======
-
-
-Hi Git hub i am new git and gitrepository
-please teach me properly
-hi git hub
-
-
 exisiting java code modified
 
 to  chek the conflit fuctionality.
+
 
 new 
-
-
-exisiting java code modified
-
-to  chek the conflit fuctionality 
-main
-
->>>>>>> f6dc8eec9e13b5980a3aa9262ff5606989a35fc6
