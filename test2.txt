@@ -3,5 +3,9 @@ writing test case or developing new java selenium code
 added one more line
 
 
+<<<<<<< HEAD
 
 here there is no java code.
+=======
+hi java code , this is for selenium purpose
+>>>>>>> fd7b15c55148e2dbe4e478e320caa42def67218d
