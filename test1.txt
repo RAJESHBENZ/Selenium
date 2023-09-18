@@ -2,14 +2,14 @@ Hi Git hub i am new git and gitrepository
 please teach me properly
 hi git hub
 
-new 
-
 
 exisiting java code modified
 
-<<<<<<< HEAD
+
 to  chek the conflit fuctionality.
-=======
-to  chek the conflit fuctionality 
+
 main
->>>>>>> Rajesh
+
+to  chek the conflit fuctionality.
+
+new 
